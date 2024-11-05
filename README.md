@@ -5,6 +5,5 @@
 
 # Analyzing bank customers with pandas
 
-In this project, you will be using a dataset which contains anonymized bank customer's data to put in practice.
-
+In this project, I used a dataset containing anonymized bank customer data to put my skills into practice.
 ![bank_customers](https://user-images.githubusercontent.com/7065401/103784823-2af47380-5019-11eb-8054-d766d392d6ff.png)
